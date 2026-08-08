@@ -23,7 +23,7 @@ A sleek, responsive, and lightweight **Task Management Application** built using
 Check out the live working application here:  
 👉 **[Live Project Link](https://kumarbuildspro.github.io/smart-task-tracker/)**
 
-*(Note: Replace `YOUR-GITHUB-USERNAME` and `YOUR-REPOSITORY-NAME` with your actual GitHub details)*
+*(Note: Replace `kumarbuildspro` and `smart-task-tracker/` with your actual GitHub details)*
 
 ---
 
@@ -36,3 +36,16 @@ smart-task-tracker/
 ├── style.css      # Styling, layout, and UI animations
 ├── script.js     # Interactivity, logic, and LocalStorage implementation
 └── README.md      # Project documentation
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd YOUR-REPOSITORY-NAME
+```
+3.Open index.html in any web browser to view the app!
