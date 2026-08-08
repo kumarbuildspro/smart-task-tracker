@@ -41,6 +41,7 @@ smart-task-tracker/
 
 1. Clone the repository:
 ```bash
+
 git clone https:https://kumarbuildspro.github.io/smart-task-tracker/.git
 ```
 
