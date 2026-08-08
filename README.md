@@ -37,11 +37,11 @@ smart-task-tracker/
 ├── script.js     # Interactivity, logic, and LocalStorage implementation
 └── README.md      # Project documentation
 
-## 💻 How to Run Locally
+# 💻 How to Run Locally
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kumarbuildspro/smart-task-tracker.git
+git clone (https://github.com/kumarbuildspro/smart-task-tracker.git)
 ```
 
 2. Navigate to the project directory:
@@ -50,4 +50,3 @@ cd smart-task-tracker
 ```
 
 3. Open `index.html` in any web browser to view the app!
-4. 
