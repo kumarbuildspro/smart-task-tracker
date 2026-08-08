@@ -21,7 +21,7 @@ A sleek, responsive, and lightweight **Task Management Application** built using
 ## 🚀 Live Demo
 
 Check out the live working application here:  
-👉 **[Live Project Link](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/)**
+👉 **[Live Project Link](https://kumarbuildspro.github.io/smart-task-tracker/)**
 
 *(Note: Replace `YOUR-GITHUB-USERNAME` and `YOUR-REPOSITORY-NAME` with your actual GitHub details)*
 
