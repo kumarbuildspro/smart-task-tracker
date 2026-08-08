@@ -41,12 +41,13 @@ smart-task-tracker/
 
 1. Clone the repository:
 ```bash
-
-git clone https:https://kumarbuildspro.github.io/smart-task-tracker/.git
+git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd smart-task-tracker
+cd smart-task-tracker/
 ```
-3.Open index.html in any web browser to view the app!
+
+3. Open `index.html` in any web browser to view the app!
+4. 
